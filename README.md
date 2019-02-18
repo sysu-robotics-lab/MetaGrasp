@@ -4,7 +4,7 @@
 
 Presented at the 2019 International Conference on Robotics and Automation (ICRA).
 
-![pipeline](fig/the_proposed_grasp_system_pipeline.png)
+![pipeline](fig/the_proposed_grasp_system_pipeline.jpg)
 
 **Abstract** Data-driven approach for grasping shows significant advance recently. 
 But these approaches usually require much training data. 
