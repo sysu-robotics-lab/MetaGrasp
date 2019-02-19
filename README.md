@@ -31,7 +31,7 @@ which outperforms current state-of-the-art methods.
 
 **Preprint**: coming soon
 
-**Video**: comming soon
+**Video**: [Youtube](https://youtu.be/rulggCZkSPg), [Youku](http://v.youku.com/v_show/id_XNDA2ODk4NTMyNA==.html?spm=a2hzp.8244740.0.0)
 
 **Code**: comming soon
 
