@@ -29,7 +29,7 @@ when changing the background textures, it also performs well
 and can achieve even 94% accuracy on the set of adversarial objects, 
 which outperforms current state-of-the-art methods.
 
-**Preprint**: coming soon
+**Preprint**: [Arxiv](http://arxiv.org/abs/1902.06554)
 
 **Video**: [Youtube](https://youtu.be/rulggCZkSPg), [Youku](http://v.youku.com/v_show/id_XNDA2ODk4NTMyNA==.html?spm=a2hzp.8244740.0.0)
 
