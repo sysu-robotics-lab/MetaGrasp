@@ -1,0 +1,6 @@
+*.ckpt
+events*
+checkpoint
+*.pbtxt
+*.json
+model.*

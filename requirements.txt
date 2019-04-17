@@ -1,0 +1,5 @@
+tensorflow>=1.9.0
+opencv-python>=3.4.0
+numpy>=1.13.3
+scipy>=1.0.0
+gdown==3.8.1
