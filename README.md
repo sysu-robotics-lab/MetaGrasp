@@ -33,7 +33,7 @@ which outperforms current state-of-the-art methods.
 
 **Video**: [Youtube](https://youtu.be/rulggCZkSPg), [Youku](http://v.youku.com/v_show/id_XNDA2ODk4NTMyNA==.html?spm=a2hzp.8244740.0.0)
 
-**Code**: comming soon
+**Code**: [Github](https://github.com/sysu-robotics-lab/MetaGrasp)
 
 
 
